@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'xcresult/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'xcresult'
+  spec.name          = 'xcresult-lw'
   spec.version       = XCResult::VERSION
   spec.authors       = ['Josh Holtz']
   spec.email         = ['me@joshholtz.com']
