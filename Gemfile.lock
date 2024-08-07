@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    xcresult (0.2.1)
+    xcresult-lw (0.2.3)
 
 GEM
   remote: https://rubygems.org/
@@ -58,7 +58,7 @@ DEPENDENCIES
   rake (~> 13.0)
   rspec (~> 3.0)
   rubocop (~> 1.65)
-  xcresult!
+  xcresult-lw!
 
 BUNDLED WITH
    2.5.10
